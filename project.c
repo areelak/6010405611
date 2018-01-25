@@ -9,4 +9,5 @@ int main() {
 	minutes1 = ((minutes%1440)%60);
 	printf("It is %d days %d hours and %d minutes.\n", days, hours, minutes1 );
 	printf("---------------------\n");
+	printf("*******");
 }
